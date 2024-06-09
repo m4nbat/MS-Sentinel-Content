@@ -1,2 +1,2 @@
 # MS-Sentinel-Content
-Microsoft Sentinel Content
+This repo holds Microsoft Sentinel Content
