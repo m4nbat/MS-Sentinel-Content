@@ -4,3 +4,5 @@
 </p>
 ---
  [Ransomware.live](https://ransomware.live/#/about) is a ransomware groups observatory based on ransomwatch and inspired by ransomlook.It is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites. 
+
+The workbook is a collaboration between [Gavin Knapp](https://github.com/m4nbat) and [Chiheb Chebbi](https://github.com/chihebchebbi)
